@@ -2,6 +2,6 @@
 
 Repositório com imagens da Lena e apresentação de slides.
 
-![shirek ](lena_color.png)
+![shirek_](shirek_color.png)
 
-![shirek detailEnhance](lena_result.png)
+![shirek detailEnhance](shirek_result.png)
