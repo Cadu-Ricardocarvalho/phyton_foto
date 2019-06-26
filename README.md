@@ -1,7 +1,7 @@
 # foto do shrek
 
-Repositório com imagens da Lena e apresentação de slides.
+Repositório com imagens do  shirek 
 
-![shirek_](Shirek_color.png)
+![shirek_](Shirek_color.jpg)
 
-![shirek detailEnhance](Shirek_result.png)
+![shirek detailEnhance](Shirek_result.jpg)
